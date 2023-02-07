@@ -3,6 +3,9 @@
 Dette er et projekt for SEP4.  
 Projektet er opdelt i 3 teams.
 
+Hvert team er individuelt ansvarlig for at review og pull ind i main.
+ - []
+
 ## Projektet
 
 Teknologier brugt i projektet.

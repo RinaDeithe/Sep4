@@ -14,7 +14,7 @@ Team cloud arbejder med blablabla
 
 ### Hvem er på holdet og deres rolle.
 |Navn|Rolle|
-|-----|-----|
+|-------|-------|
 |||
 |||
 |||

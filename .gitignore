@@ -1,12 +1,14 @@
 # Compiled class file
 *.class
 
+# IntelliJ workspace file
+*/workspace.xml
+
 # Log file
 *.log
 
 # Directories
 */target/*
-*/.idea/
 
 # BlueJ files
 *.ctxt

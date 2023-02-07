@@ -13,31 +13,31 @@ Server arkitektur.
 Team cloud arbejder med blablabla
 
 ### Hvem er på holdet og deres rolle.
-|Navn|Rolle|
-|-------|-------|
-|||
-|||
-|||
-|||
+|Navn|Rolle|Git Navn|
+|-----|-----|-----|
+||||
+||||
+||||
+||||
 ## Team IoT
 
 Team IoT arbejder med blablabla
 
 ### Hvem er på holdet og deres rolle.
-|Navn|Rolle|
-|-----|-----|
-|||
-|||
-|||
-|||
+|Navn|Rolle|Git Navn|
+|-----|-----|-----|
+|Mikkel||RinaDeithe|
+||||
+||||
+||||
 ## Team Frontend
 
 Team Frontend arbejder med blablabla
 
 ### Hvem er på holdet og deres rolle.
-|Navn|Rolle|
-|-----|-----|
-|||
-|||
-|||
-|||
+|Navn|Rolle|Git Navn|
+|-----|-----|-----|
+||||
+||||
+||||
+||||

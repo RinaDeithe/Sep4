@@ -6,6 +6,7 @@
 
 # Directories
 */target/*
+*/.idea
 
 # BlueJ files
 *.ctxt

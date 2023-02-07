@@ -13,6 +13,8 @@ Server arkitektur.
 
 Team cloud arbejder med blablabla
 
+Long term branch: 
+
 ### Hvem er på holdet og deres rolle.
 |Navn|Git Navn|
 |-----|-----|
@@ -24,6 +26,8 @@ Team cloud arbejder med blablabla
 
 Team IoT arbejder med blablabla
 
+Long term branch: 
+
 ### Hvem er på holdet og deres rolle.
 |Navn|Git Navn|
 |-----|-----|
@@ -34,6 +38,8 @@ Team IoT arbejder med blablabla
 ## Team Frontend
 
 Team Frontend arbejder med blablabla
+
+Long term branch: 
 
 ### Hvem er på holdet og deres rolle.
 |Navn|Git Navn|
